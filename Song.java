@@ -4,7 +4,7 @@ public class Song {
 
  public class Node {
 
-  private Node left, right; //left child of tree
+  private Node left, right; //left and right child of tree
   private String artistName, songTitle, streamCount;
   
   //constructor for Node
